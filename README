@@ -1,0 +1,4 @@
+
+- Give IAM user proper access to S3 and EC2
+- Set up S3 trigger for lambda function when objects are uploaded to the S3 bucket
+- For S3 copy the snowpipe SQS ARN and put it in the S3 event notification section of the S3 bucket.
